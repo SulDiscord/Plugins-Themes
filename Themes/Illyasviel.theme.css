@@ -1,0 +1,75 @@
+/**
+* @name Illyasviel Von Einzbern's Theme
+* @author Sul#3337
+* @authorLink https://github.com/GoldenLys
+* @version 1.0
+* @invite SBuYeHh
+* @description Purple Wizard's Elysia theme, edited by Sul#3337
+* @source https://github.com/GoldenLys/BetterDiscord-Elysia
+* @website https://goldenlys.github.io/ThemeGen
+*/
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/aerobase.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/RGB/2.css");
+
+/* PLUGINS */
+
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HoverMemberList.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/NoOffline.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HorizontalServerList.css");
+
+
+/* CONFIG */
+
+:root {
+--title: "Illyasviel Von Einzbern";
+--background: url("https://www.wallpaperup.com/uploads/wallpapers/2018/03/24/1239969/4c4e4777dc841529764e0d13294ed0f6-700.jpg");
+--font: "Arial";
+--time: 5s;
+--Online: rgb(0 255 136);
+--Idle: rgb(0 99 156);
+--Unavailable: rgb(228 15 0);
+--Offline: rgb(90 95 100);
+--Playing: url("https://grandorder.wiki/images/thumb/d/d5/Portrait_Servant_136_Extra.png/300px-Portrait_Servant_136_Extra.png");
+--Xbox: url("https://grandorder.wiki/images/thumb/d/d5/Portrait_Servant_136_Extra.png/300px-Portrait_Servant_136_Extra.png");
+--Spotify: url("https://grandorder.wiki/images/thumb/d/d5/Portrait_Servant_136_Extra.png/300px-Portrait_Servant_136_Extra.png");
+--Streaming: url("https://grandorder.wiki/images/thumb/d/d5/Portrait_Servant_136_Extra.png/300px-Portrait_Servant_136_Extra.png");
+--grey: rgb(77 70 85);
+--darkgrey: rgb(18 18 18);
+--ChatBox: var(--darkgrey5);
+--Sidebar: var(--darkgrey5);
+--SendMessage: var(--darkgrey);
+--logo: url("https://i.pinimg.com/originals/06/08/14/0608144391b0c374468b63bb7ed6fd55.gif");
+--HoverMessage: var(--darkgrey5);
+--JoinUs: "Join this server";
+--AddNewServer: "➕ Add a new server for your friends";
+--Close: "🔴";
+--Resize: "🔵";
+--Hide: "⚫";
+--ProfilePic: "Watch me";
+--Unread: "✨";
+--Options: "⚙️";
+--Emoji: "🙂";
+--EmojiHover: "😜";
+--Channel: "💬";
+--Voice: "🔊";
+--Community: "purpies";
+--WelcomeMessage: "✨ Welcome to Illyasviel Von Einzbern's Theme";
+--Watermark: "Made with 💖 by Sul#3337";
+--EditStatus: "Put another status";
+--Folders: "📁";
+--C1: rgb(255 0 157);
+--C2: rgb(70 0 255);
+--FoldersOpen: "💠";
+--Micro: "🎙️";
+--Headset: "🎧";
+--TitleBG: var(--darkgrey5);
+--ServerSize: 45px;
+--WriteMessage: "Write a message...";
+--ListenAlong: "Listen Along";
+--StreamingColor: rgb(78 0 180);
+--ServerColumns: 1;
+--Highlighted: var(--grey5);
+--ActiveBox: rgb(235 235 235);
+--grey5: rgba(77 70 85 / 50%);
+--darkgrey5: rgba(18 18 18 / 75%);
+} /* Made by Sul#3337 (Purple Wizard's theme Elysia) */

@@ -1,0 +1,75 @@
+/**
+* @name Tokino Sora Theme
+* @author Sul#3337
+* @authorLink https://github.com/GoldenLys
+* @version 1.0
+* @invite SBuYeHh
+* @description Purple Wizard's Elysia theme, edited by Sul#3337
+* @source https://github.com/GoldenLys/BetterDiscord-Elysia
+* @website https://goldenlys.github.io/ThemeGen
+*/
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/aerobase.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/RGB/2.css");
+
+/* PLUGINS */
+
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HoverMemberList.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/NoOffline.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HorizontalServerList.css");
+
+
+/* CONFIG */
+
+:root {
+--title: "Tokino Sora";
+--background: url("https://i.imgur.com/PMDSzsf.jpg");
+--font: "Arial";
+--time: 5s;
+--Online: rgb(0 255 136);
+--Idle: rgb(0 99 156);
+--Unavailable: rgb(228 15 0);
+--Offline: rgb(90 95 100);
+--Playing: url("https://i.imgur.com/uKlWWjV.jpg");
+--Xbox: url("https://i.imgur.com/uKlWWjV.jpg");
+--Spotify: url("https://i.imgur.com/uKlWWjV.jpg");
+--Streaming: url("https://i.imgur.com/uKlWWjV.jpg");
+--grey: rgb(77 70 85);
+--darkgrey: rgb(18 18 18);
+--ChatBox: var(--darkgrey5);
+--Sidebar: var(--darkgrey5);
+--SendMessage: var(--darkgrey);
+--logo: url("https://media.tenor.com/images/7e051d2d9912421f397a88a87d0c2c82/tenor.gif");
+--HoverMessage: var(--darkgrey5);
+--JoinUs: "Join this server";
+--AddNewServer: "➕ Add a new server for your friends";
+--Close: "🔴";
+--Resize: "🔵";
+--Hide: "⚫";
+--ProfilePic: "Watch me";
+--Unread: "✨";
+--Options: "⚙️";
+--Emoji: "🙂";
+--EmojiHover: "😜";
+--Channel: "💬";
+--Voice: "🔊";
+--Community: "purpies";
+--WelcomeMessage: "✨ Welcome to Tokino Sora's Idol Theme";
+--Watermark: "Made with 💖 by Sul#3337";
+--EditStatus: "Put another status";
+--Folders: "📁";
+--C1: rgb(0 0 0);
+--C2: rgb(255 0 0);
+--FoldersOpen: "💠";
+--Micro: "🎙️";
+--Headset: "🎧";
+--TitleBG: var(--darkgrey5);
+--ServerSize: 45px;
+--WriteMessage: "Write a message...";
+--ListenAlong: "Listen Along";
+--StreamingColor: rgb(78 0 180);
+--ServerColumns: 1;
+--Highlighted: var(--grey5);
+--ActiveBox: rgb(235 235 235);
+--grey5: rgba(77 70 85 / 50%);
+--darkgrey5: rgba(18 18 18 / 75%);
+} /* Made by Sul#3337 (Purple Wizard's theme Elysia) */

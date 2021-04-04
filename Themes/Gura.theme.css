@@ -1,0 +1,75 @@
+/**
+* @name Gura's Theme
+* @author Gawr Gura
+* @authorLink https://github.com/GoldenLys
+* @version 3.3
+* @invite SBuYeHh
+* @description Shark Girl's fan theme.
+* @source https://github.com/GoldenLys/BetterDiscord-Elysia
+* @website https://goldenlys.github.io/ThemeGen
+*/
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/aerobase.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/RGB/2.css");
+
+/* PLUGINS */
+
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HoverMemberList.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/NoOffline.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HorizontalServerList.css");
+
+
+/* CONFIG */
+
+:root {
+--title: "Gawr Gura";
+--background: url("https://i.redd.it/5kprq8xs7gp51.png");
+--font: "Arial";
+--time: 10s;
+--Online: rgb(0 255 136);
+--Idle: rgb(0 99 156);
+--Unavailable: rgb(228 15 0);
+--Offline: rgb(90 95 100);
+--Playing: url("http://pm1.narvii.com/7716/c9933ac2e33a86771104887004db1047ab600545r1-1948-2048v2_uhq.jpg");
+--Xbox: url("https://static.wikia.nocookie.net/omniversal-battlefield/images/f/fd/Gawr_gura_hololive_and_1_more_drawn_by_hiroki_ree_bb1344988f62981ac1ba12ddab83c207.jpg");
+--Spotify: url("https://c4.wallpaperflare.com/wallpaper/438/467/691/hololive-gawr-gura-shark-teeth-underwater-blue-eyes-hd-wallpaper-preview.jpg");
+--Streaming: url("https://cdnb.artstation.com/p/assets/images/images/031/081/765/large/gartsx-gura-saved.jpg?1602549789");
+--grey: rgb(77 70 85);
+--darkgrey: rgb(18 18 18);
+--ChatBox: var(--darkgrey5);
+--Sidebar: var(--darkgrey5);
+--SendMessage: var(--darkgrey);
+--logo: url("https://walfiegif.files.wordpress.com/2020/12/out-transparent-2.gif?w=640");
+--HoverMessage: var(--darkgrey5);
+--JoinUs: "Join this server";
+--AddNewServer: "➕ Add a new server for your friends";
+--Close: "🔴";
+--Resize: "🔵";
+--Hide: "⚫";
+--ProfilePic: "Watch me";
+--Unread: "✨";
+--Options: "⚙️";
+--Emoji: "🙂";
+--EmojiHover: "😜";
+--Channel: "💬";
+--Voice: "🔊";
+--Community: "Shrimps";
+--WelcomeMessage: "✨ Welcome to Gura's fan made discord theme.";
+--Watermark: "Made with 💖 by Sul#3337";
+--EditStatus: "Put another status";
+--Folders: "📁";
+--C1: rgb(255 0 75);
+--C2: rgb(0 75 255);
+--FoldersOpen: "💠";
+--Micro: "🎙️";
+--Headset: "🎧";
+--TitleBG: var(--darkgrey5);
+--ServerSize: 45px;
+--WriteMessage: "Write a message...";
+--ListenAlong: "Listen Along";
+--StreamingColor: rgb(78 0 180);
+--ServerColumns: 1;
+--Highlighted: var(--grey5);
+--ActiveBox: rgb(235 235 235);
+--grey5: rgba(77 70 85 / 50%);
+--darkgrey5: rgba(18 18 18 / 75%);
+} /* Made by Sul#3337 */

@@ -1,0 +1,77 @@
+/**
+* @name Isuzu Sento
+* @author Sul
+* @authorLink https://github.com/GoldenLys
+* @version 3.3
+* @invite SBuYeHh
+* @description Sul's theme edited from Elysia.
+* @source https://github.com/GoldenLys/BetterDiscord-Elysia
+* @website https://goldenlys.github.io/ThemeGen
+*/
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/aerobase.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/RGB/2.css");
+
+/* PLUGINS */
+
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HoverMemberList.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/NoOffline.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HorizontalServerList.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/GIBBUHSLFIX.css");
+
+
+
+/* CONFIG */
+
+:root {
+--title: "Isuzu Sento";
+--background: url("https://wallpapercave.com/wp/wp7388428.png");
+--font: "Arial";
+--time: 10s;
+--Online: rgb(0 255 136);
+--Idle: rgb(0 99 156);
+--Unavailable: rgb(228 15 0);
+--Offline: rgb(90 95 100);
+--Playing: url("https://s1.zerochan.net/Sento.Isuzu.600.1790790.jpg");
+--Xbox: url("https://steamuserimages-a.akamaihd.net/ugc/155780863635424298/05CB17436BEF3F961F76528ACAB8D07093626485/");
+--Spotify: url("https://static.zerochan.net/Sento.Isuzu.full.1817376.jpg");
+--Streaming: url("https://i.pinimg.com/originals/16/c4/22/16c42265fa5dcf86aea189c580b7f2df.jpg");
+--grey: rgb(77 70 85);
+--darkgrey: rgb(18 18 18);
+--ChatBox: var(--darkgrey5);
+--Sidebar: var(--darkgrey5);
+--SendMessage: var(--darkgrey);
+--logo: url("https://media.tenor.com/images/268f4c18a2d8988e49bc9d8709c6453e/tenor.gif");
+--HoverMessage: var(--darkgrey5);
+--JoinUs: "Join this server";
+--AddNewServer: "➕ Add a new server for your friends";
+--Close: "🔴";
+--Resize: "🔵";
+--Hide: "⚫";
+--ProfilePic: "Watch me";
+--Unread: "✨";
+--Options: "⚙️";
+--Emoji: "🙂";
+--EmojiHover: "😜";
+--Channel: "💬";
+--Voice: "🔊";
+--Community:  "Weebs";
+--WelcomeMessage: "✨ Welcome to Sul's highly modified Discord";
+--Watermark: "Made with 💖 by Sul#3337";
+--EditStatus: "Put another status";
+--Folders: "📁";
+--C1: rgb(130 0 216);
+--C2: rgb(0 225 255);
+--FoldersOpen: "💠";
+--Micro: "🎙️";
+--Headset: "🎧";
+--TitleBG: var(--darkgrey5);
+--ServerSize: 45px;
+--WriteMessage: "Write a message...";
+--ListenAlong: "Listen Along";
+--StreamingColor: rgb(78 0 180);
+--ServerColumns: 1;
+--Highlighted: var(--grey5);
+--ActiveBox: rgb(235 235 235);
+--grey5: rgba(77 70 85 / 50%);
+--darkgrey5: rgba(18 18 18 / 75%);
+} /* Made by Sul#3337 */
