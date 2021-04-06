@@ -1,0 +1,74 @@
+/**
+* @name AZKi Theme
+* @author Sul#3337
+* @authorLink https://github.com/GoldenLys
+* @version 1.0
+* @invite SBuYeHh
+* @description Purple Wizard's Elysia theme, edited by Sul#3337
+* @source https://github.com/GoldenLys/BetterDiscord-Elysia
+* @website https://goldenlys.github.io/ThemeGen
+*/
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/aerobase.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/RGB/2.css");
+
+/* PLUGINS */
+
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HoverMemberList.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/NoOffline.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HorizontalServerList.css");
+
+/* CONFIG */
+
+:root {
+--title: "AZKi";
+--background: url("https://danbooru.donmai.us/data/original/d2/45/__azki_hololive_drawn_by_cogecha__d24509f7422626951a8005568ad97954.jpg");
+--font: "Arial";
+--time: 5s;
+--Online: rgb(0 255 136);
+--Idle: rgb(0 99 156);
+--Unavailable: rgb(228 15 0);
+--Offline: rgb(90 95 100);
+--Playing: url("https://danbooru.donmai.us/data/sample/29/08/sample-2908df49c850400ba54c3a3693fb45c8.jpg");
+--Xbox: url("https://danbooru.donmai.us/data/sample/29/08/sample-2908df49c850400ba54c3a3693fb45c8.jpg");
+--Spotify: url("https://danbooru.donmai.us/data/sample/29/08/sample-2908df49c850400ba54c3a3693fb45c8.jpg");
+--Streaming: url("https://danbooru.donmai.us/data/sample/29/08/sample-2908df49c850400ba54c3a3693fb45c8.jpg");
+--grey: rgb(77 70 85);
+--darkgrey: rgb(18 18 18);
+--ChatBox: var(--darkgrey5);
+--Sidebar: var(--darkgrey5);
+--SendMessage: var(--darkgrey);
+--logo: url("https://media.tenor.com/images/cac17eb48bf12dbbda42bba43ac56148/tenor.gif");
+--HoverMessage: var(--darkgrey5);
+--JoinUs: "Join this server";
+--AddNewServer: "➕ Add a new server for your friends";
+--Close: "🔴";
+--Resize: "🔵";
+--Hide: "⚫";
+--ProfilePic: "Watch me";
+--Unread: "✨";
+--Options: "⚙️";
+--Emoji: "🙂";
+--EmojiHover: "😜";
+--Channel: "💬";
+--Voice: "🔊";
+--Community: "purpies";
+--WelcomeMessage: "✨ Welcome to AZKi's Idol Theme";
+--Watermark: "Made with 💖 by Sul#3337";
+--EditStatus: "Put another status";
+--Folders: "📁";
+--C1: rgb(231 84 128);
+--C2: rgb(84 231 187);
+--FoldersOpen: "💠";
+--Micro: "🎙️";
+--Headset: "🎧";
+--TitleBG: var(--darkgrey5);
+--ServerSize: 45px;
+--WriteMessage: "Write a message...";
+--ListenAlong: "Listen Along";
+--StreamingColor: rgb(78 0 180);
+--ServerColumns: 1;
+--Highlighted: var(--grey5);
+--ActiveBox: rgb(235 235 235);
+--grey5: rgba(77 70 85 / 50%);
+--darkgrey5: rgba(18 18 18 / 75%);
+} /* Made by Sul#3337 (Purple Wizard's theme Elysia) */
