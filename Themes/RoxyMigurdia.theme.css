@@ -1,0 +1,76 @@
+/**
+* @name Roxy Migurdia
+* @author Sul#3337
+* @authorLink https://github.com/GoldenLys
+* @version 3.3
+* @invite SBuYeHh
+* @description Roxy Migurdia's theme.
+* @source https://github.com/GoldenLys/BetterDiscord-Elysia
+* @website https://goldenlys.github.io/ThemeGen
+*/
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/aerobase.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/RGB/2.css");
+
+/* PLUGINS */
+
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HoverMemberList.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/NoOffline.css");
+@import url("https://goldenlys.github.io/BetterDiscord-Elysia/HorizontalServerList.css");
+
+
+/* CONFIG */
+
+:root {
+--title: "Roxy Migurdia";
+--background: url("https://images5.alphacoders.com/100/thumb-1920-1001265.jpg");
+--font: "Arial";
+--time: 10s;
+--Online: rgb(0 255 136);
+--Idle: rgb(0 99 156);
+--Unavailable: rgb(228 15 0);
+--Offline: rgb(90 95 100);
+--Playing: url(https://preview.redd.it/currws4hhxi61.jpg?auto=webp&s=ea9975eac026c70df80e747b52ad98f3b4c6aa10);
+--Xbox: url("https://preview.redd.it/currws4hhxi61.jpg?auto=webp&s=ea9975eac026c70df80e747b52ad98f3b4c6aa10");
+--Spotify: url("https://preview.redd.it/currws4hhxi61.jpg?auto=webp&s=ea9975eac026c70df80e747b52ad98f3b4c6aa10");
+--Streaming: url("https://preview.redd.it/currws4hhxi61.jpg?auto=webp&s=ea9975eac026c70df80e747b52ad98f3b4c6aa10");
+--grey: rgb(77 70 85);
+--darkgrey: rgb(18 18 18);
+--ChatBox: var(--darkgrey5);
+--Sidebar: var(--darkgrey5);
+--SendMessage: var(--darkgrey);
+--logo: url("https://media1.tenor.com/images/79086964cf236378f3faea68e36f0c99/tenor.gif?itemid=19925537");
+--HoverMessage: var(--darkgrey5);
+--JoinUs: "Roxy approves of this server invite";
+--AddNewServer: "➕ Add a new server for Roxy";
+--Close: "🔴";
+--Resize: "🔵";
+--Hide: "⚫";
+--ProfilePic: "Watch me";
+--Unread: "✨";
+--Options: "⚙️";
+--Emoji: "🙂";
+--EmojiHover: "😜";
+--Channel: "💬";
+--Voice: "🔊";
+--Community: "purpies";
+--WelcomeMessage: "✨ Welcome to Roxy Migurdia's themed Discord";
+--Watermark: "Made with 💖 by Sul#3337";
+--EditStatus: "Put another status";
+--Folders: "📁";
+--C1: rgb(130 0 216);
+--C2: rgb(0 225 255);
+--FoldersOpen: "💠";
+--Micro: "🎙️";
+--Headset: "🎧";
+--TitleBG: var(--darkgrey5);
+--ServerSize: 45px;
+--WriteMessage: "Write a message that will make Roxy Proud...";
+--ListenAlong: "Listen Along";
+--StreamingColor: rgb(78 0 180);
+--ServerColumns: 1;
+--Highlighted: var(--grey5);
+--ActiveBox: rgb(235 235 235);
+--Announcement: "📣";
+--grey5: rgba(77 70 85 / 50%);
+--darkgrey5: rgba(18 18 18 / 75%);
+} /* Made by Sul#3337 for Roxy Migurdia fans (based on Elysia by Purple Wizard) */

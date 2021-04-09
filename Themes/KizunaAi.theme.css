@@ -1,5 +1,5 @@
 /**
-* @name Mori Calliope Theme
+* @name Kizuna Ai Theme
 * @author Sul#3337
 * @authorLink https://github.com/GoldenLys
 * @version 1.0
@@ -20,24 +20,24 @@
 /* CONFIG */
 
 :root {
---title: "Mori Calliope";
---background: url("https://konachan.com/sample/928f1feb191aafa234241b89b7ff632a/Konachan.com%20-%20323151%20sample.jpg");
+--title: "Kizuna Ai";
+--background: url("https://images6.alphacoders.com/920/thumb-1920-920740.png");
 --font: "Arial";
 --time: 5s;
 --Online: rgb(0 255 136);
 --Idle: rgb(0 99 156);
 --Unavailable: rgb(228 15 0);
 --Offline: rgb(90 95 100);
---Playing: url("https://steamuserimages-a.akamaihd.net/ugc/1627444779488406161/1284F4BB7781883E54DF79B64427CB71597A8256/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false");
---Xbox: url("https://steamuserimages-a.akamaihd.net/ugc/1627444779488406161/1284F4BB7781883E54DF79B64427CB71597A8256/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false");
---Spotify: url("https://steamuserimages-a.akamaihd.net/ugc/1627444779488406161/1284F4BB7781883E54DF79B64427CB71597A8256/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false");
---Streaming: url("https://steamuserimages-a.akamaihd.net/ugc/1627444779488406161/1284F4BB7781883E54DF79B64427CB71597A8256/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false");
+--Playing: url("https://cdn.awwni.me/13yb7.png");
+--Xbox: url("https://cdn.awwni.me/13yb7.png");
+--Spotify: url("https://cdn.awwni.me/13yb7.png");
+--Streaming: url("https://cdn.awwni.me/13yb7.png");
 --grey: rgb(77 70 85);
 --darkgrey: rgb(18 18 18);
 --ChatBox: var(--darkgrey5);
 --Sidebar: var(--darkgrey5);
 --SendMessage: var(--darkgrey);
---logo: url("https://64.media.tumblr.com/6a78df5b01060b911ee33ec557a69253/83c2799da794d911-6b/s1280x1920/a5f0076089de344760c464073529f03fa30a1d25.gifv");
+--logo: url("https://media.tenor.com/images/ff10dbddcc40ebb88e5f711d80632330/tenor.gif");
 --HoverMessage: var(--darkgrey5);
 --JoinUs: "Join this server";
 --AddNewServer: "➕ Add a new server for your friends";
@@ -52,12 +52,12 @@
 --Channel: "💬";
 --Voice: "🔊";
 --Community: "purpies";
---WelcomeMessage: "✨ Welcome to Mori Calliope's Shinigami Theme";
+--WelcomeMessage: "✨ Welcome to Kizuna Ai's Theme";
 --Watermark: "Made with 💖 by Sul#3337";
 --EditStatus: "Put another status";
 --Folders: "📁";
---C1: rgb(218 104 160);
---C2: rgb(167 1 81);
+--C1: rgb(231 84 128);
+--C2: rgb(0 0 0);
 --FoldersOpen: "💠";
 --Micro: "🎙️";
 --Headset: "🎧";
