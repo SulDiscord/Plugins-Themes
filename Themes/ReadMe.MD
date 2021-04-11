@@ -2,7 +2,7 @@ BandagedBD Users: Drag into your theme folder
 
 If you are unable to open themes tab due to crashing copy below:
 
-Powercord Users: Copy and paste CSS code into CustomCSS
+Powercord Users: Copy and paste CSS code into QuickCSS (themes -> quickcss)
 
 Powerconvert doesn't work for these themes
 
